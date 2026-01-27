@@ -31,4 +31,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [SRE.ai](https://www.sre.ai/)
 - [Resolve AI](https://resolve.ai)
 - [Sherlocks.ai](https://www.sherlocks.ai/) 
+- [Metoro](https://www.metoro.io/) 
 
