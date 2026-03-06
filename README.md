@@ -25,6 +25,7 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 ### SRE Agents
 - [Agent SRE](https://agentsre.ai/)
 - [Cleric](https://cleric.io/)
+- [Holmes GPT](https://holmesgpt.ai/)
 - [k8s-GPT](https://github.com/k8sgpt-ai/k8sgpt) (Open Source)
 - [Nudge Bee](https://nudgebee.com/)
 - [Parity](https://www.tryparity.com/)
