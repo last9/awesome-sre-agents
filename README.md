@@ -31,5 +31,6 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Parity](https://www.tryparity.com/)
 - [SRE.ai](https://www.sre.ai/)
 - [Resolve AI](https://resolve.ai)
-- [Sherlocks.ai](https://www.sherlocks.ai/) 
+- [Sherlocks.ai](https://www.sherlocks.ai/)
+- [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source)
 
