@@ -34,4 +34,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Resolve AI](https://resolve.ai)
 - [Sherlocks.ai](https://www.sherlocks.ai/)
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source)
+- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent with MCP server. Enables AI agents (Claude, Cursor) to investigate GPU performance incidents by querying CUDA API traces, causal chains, and host kernel events. (Open Source)
 
