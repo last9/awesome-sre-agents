@@ -34,4 +34,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Resolve AI](https://resolve.ai)
 - [Sherlocks.ai](https://www.sherlocks.ai/)
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source)
+- [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source)
 
