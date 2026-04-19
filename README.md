@@ -23,12 +23,14 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [RunWhen](https://www.runwhen.com/)
 
 ### SRE Agents
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Komodor Klaudia AI](https://komodor.com/)
 - [Agent SRE](https://agentsre.ai/)
 - [Cleric](https://cleric.io/)
 - [Holmes GPT](https://holmesgpt.ai/)
 - [k8s-GPT](https://github.com/k8sgpt-ai/k8sgpt) (Open Source)
 - [Nudge Bee](https://nudgebee.com/)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [Parity](https://www.tryparity.com/)
 - [SRE.ai](https://www.sre.ai/)
 - [Resolve AI](https://resolve.ai)
