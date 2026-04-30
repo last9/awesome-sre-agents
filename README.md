@@ -23,7 +23,7 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [RunWhen](https://www.runwhen.com/)
 
 ### SRE Agents
-- [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with AI chat for cluster operations, real-time observability, and CNCF integrations (Argo, Kyverno, Prometheus, and 20+ others).
+- [KubeStellar Console](https://github.com/kubestellar/console) (Open Source)
 - [Komodor Klaudia AI](https://komodor.com/)
 - [Agent SRE](https://agentsre.ai/)
 - [Cleric](https://cleric.io/)
@@ -37,5 +37,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source)
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source)
 - [Metoro](https://www.metoro.io/) 
-- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent with MCP server. Enables AI agents (Claude, Cursor) to investigate GPU performance incidents by querying CUDA API traces, causal chains, and host kernel events. (Open Source)
+- [Ingero](https://github.com/ingero-io/ingero) (Open Source)
 
