@@ -38,3 +38,4 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source)
 - [Metoro](https://www.metoro.io/) 
 - [Ingero](https://github.com/ingero-io/ingero) (Open Source)
+- [Middleware OpsAI](https://middleware.io/product/ops-ai/)
