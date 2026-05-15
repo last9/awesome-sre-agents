@@ -39,3 +39,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Metoro](https://www.metoro.io/) 
 - [Ingero](https://github.com/ingero-io/ingero) (Open Source)
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/)
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session status, and message trends.
