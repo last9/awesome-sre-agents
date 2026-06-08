@@ -11,6 +11,8 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [SRE Bench](https://sreben.ch/)
 - [Not Human Search](https://nothumansearch.ai)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### Incident Response Agents
 - [Beeps](https://www.beeps.co/)
 - [incident.io](https://incident.io/ai)
