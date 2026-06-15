@@ -1,4 +1,4 @@
-# awesome-sre-agents
+# Awesome SRE Agents
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
