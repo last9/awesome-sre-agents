@@ -1,6 +1,4 @@
-# Awesome SRE Agents
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome SRE Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of AI-powered DevOps and SRE (Site Reliability Engineering) agents, tools, and resources for automating and enhancing reliability practices.
 
