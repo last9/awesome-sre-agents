@@ -1,6 +1,6 @@
 # Awesome SRE Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of AI-powered DevOps and SRE (Site Reliability Engineering) agents, tools, and resources for automating and enhancing reliability practices.
+AI agents that automate site reliability engineering and DevOps operations.
 
 ## Contents
 
@@ -30,6 +30,7 @@ A curated list of AI-powered DevOps and SRE (Site Reliability Engineering) agent
 ## SRE Agents
 
 - [Agent SRE](https://agentsre.ai/) - Agent trained to perform SRE tasks such as deployments and runbook execution.
+- [Anyshift](https://anyshift.io/) - Agent that traces incidents to their root cause across a versioned resource graph of your infrastructure.
 - [Cleric](https://cleric.io/) - Agent that monitors infrastructure and answers questions about system state.
 - [Holmes GPT](https://holmesgpt.ai/) - Agent that diagnoses Kubernetes and cloud alerts using root-cause analysis.
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source) - Agent for automating incident detection and response workflows.
