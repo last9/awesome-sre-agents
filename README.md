@@ -23,7 +23,6 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 ## Platforms of Agents
 
-- [Control Flow](https://github.com/PrefectHQ/ControlFlow) (Open Source) - Python framework for building AI agent workflows on top of Prefect.
 - [Obot](https://github.com/obot-platform/obot) (Open Source) - Platform for building and running AI agents with tool integrations.
 - [RunWhen](https://www.runwhen.com/) - Platform for running and managing SRE automation tasks and agents.
 
@@ -32,9 +31,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Agent SRE](https://agentsre.ai/) - Agent trained to perform SRE tasks such as deployments and runbook execution.
 - [Anyshift](https://anyshift.io/) - Agent that traces incidents to their root cause across a versioned resource graph of your infrastructure.
 - [Cleric](https://cleric.io/) - Agent that monitors infrastructure and answers questions about system state.
-- [Holmes GPT](https://holmesgpt.ai/) - Agent that diagnoses Kubernetes and cloud alerts using root-cause analysis.
-- [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source) - Agent for automating incident detection and response workflows.
-- [Ingero](https://github.com/ingero-io/ingero) (Open Source) - Agent for collecting and routing observability data.
+- [Holmes GPT](https://github.com/HolmesGPT/holmesgpt) - Agent that diagnoses Kubernetes and cloud alerts using root-cause analysis.
 - [k8s-GPT](https://github.com/k8sGpt-ai/k8sgpt) (Open Source) - CLI tool that scans Kubernetes clusters and explains issues in plain language.
 - [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - Agent for automating operational runbooks and approval workflows.
 - [Komodor Klaudia AI](https://komodor.com/) - AI assistant embedded in Komodor for Kubernetes troubleshooting.
@@ -47,4 +44,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Resolve AI](https://resolve.ai) - Agent that investigates alerts and generates incident summaries automatically.
 - [Sherlocks.ai](https://www.sherlocks.ai/) - Agent that correlates observability signals to identify incident causes.
 - [SRE.ai](https://www.sre.ai/) - AI-assisted SRE platform for on-call automation and incident workflows.
+
+### Archived 
+- [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source) - Agent for automating incident detection and response workflows.
 
