@@ -12,7 +12,6 @@ AI agents that automate site reliability engineering and DevOps operations.
 ## Agent Benchmarks
 
 - [SRE Bench](https://sreben.ch/) - Benchmark suite for evaluating SRE agents on real-world tasks.
-- [Not Human Search](https://nothumansearch.ai) - Search index for non-human (agent) web activity.
 
 ## Incident Response Agents
 
