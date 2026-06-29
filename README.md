@@ -1,6 +1,6 @@
 # Awesome SRE Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-AI agents that automate site reliability engineering and DevOps operations.
+A curated list of AI-powered DevOps and SRE (Site Reliability Engineering) agents, tools, and resources for automating and enhancing reliability practices.
 
 ## Contents
 
