@@ -35,7 +35,6 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [k8s-GPT](https://github.com/k8sGpt-ai/k8sgpt) (Open Source) - CLI tool that scans Kubernetes clusters and explains issues in plain language.
 - [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - Agent for automating operational runbooks and approval workflows.
 - [Komodor Klaudia AI](https://komodor.com/) - AI assistant embedded in Komodor for Kubernetes troubleshooting.
-- [KubeStellar Console](https://github.com/kubestellar/console) (Open Source) - UI console for managing multi-cluster Kubernetes workloads.
 - [Metoro](https://www.metoro.io/) - Agent that monitors microservices and surfaces performance regressions.
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI layer within Middleware for correlating metrics, logs, and traces.
 - [Nudge Bee](https://nudgebee.com/) - Agent for Kubernetes cost optimization and performance tuning recommendations.
