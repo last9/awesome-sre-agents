@@ -22,6 +22,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 ## Platforms of Agents
 
+- [emisar](https://github.com/AndrewDryga/emisar) - MCP control plane that lets infrastructure agents run defined server actions through policy checks, optional approvals, and host-side validation.
 - [Obot](https://github.com/obot-platform/obot) (Open Source) - Platform for building and running AI agents with tool integrations.
 - [RunWhen](https://www.runwhen.com/) - Platform for running and managing SRE automation tasks and agents.
 
