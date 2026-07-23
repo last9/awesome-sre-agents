@@ -41,6 +41,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source) - Open source agent for automating SRE workflows on cloud infrastructure.
 - [Parity](https://www.tryparity.com/) - Agent that detects and explains production regressions after deploys.
 - [Resolve AI](https://resolve.ai) - Agent that investigates alerts and generates incident summaries automatically.
+- [RunLore](https://github.com/Smana/runlore) (Open Source) - Agent that investigates Kubernetes incidents using GitOps-exact change diffs and records what it learns as PR-reviewed markdown in a Git knowledge base you own.
 - [Sherlocks.ai](https://www.sherlocks.ai/) - Agent that correlates observability signals to identify incident causes.
 - [SRE.ai](https://www.sre.ai/) - AI-assisted SRE platform for on-call automation and incident workflows.
 
