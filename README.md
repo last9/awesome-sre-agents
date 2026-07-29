@@ -44,6 +44,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [RunLore](https://github.com/Smana/runlore) (Open Source) - Agent that investigates Kubernetes incidents using GitOps-exact change diffs and records what it learns as PR-reviewed markdown in a Git knowledge base you own.
 - [Sherlocks.ai](https://www.sherlocks.ai/) - Agent that correlates observability signals to identify incident causes.
 - [SRE.ai](https://www.sre.ai/) - AI-assisted SRE platform for on-call automation and incident workflows.
+- [Aiden for SRE](https://stackgen.com/solutions/sre) -Transform SRE with agentic workflows around natural language, automated response and proactive insights.
 
 ### Archived 
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (Open Source) - Agent for automating incident detection and response workflows.
