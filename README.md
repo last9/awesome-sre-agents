@@ -42,6 +42,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Parity](https://www.tryparity.com/) - Agent that detects and explains production regressions after deploys.
 - [Resolve AI](https://resolve.ai) - Agent that investigates alerts and generates incident summaries automatically.
 - [RunLore](https://github.com/Smana/runlore) (Open Source) - Agent that investigates Kubernetes incidents using GitOps-exact change diffs and records what it learns as PR-reviewed markdown in a Git knowledge base you own.
+- [Safeship](https://safeship.app/mcp) - API monitoring your coding agent operates over MCP: it creates checks, validates the JSON an endpoint returns rather than only its status code, and pulls incident reports carrying the payload that actually failed.
 - [Sherlocks.ai](https://www.sherlocks.ai/) - Agent that correlates observability signals to identify incident causes.
 - [SRE.ai](https://www.sre.ai/) - AI-assisted SRE platform for on-call automation and incident workflows.
 
