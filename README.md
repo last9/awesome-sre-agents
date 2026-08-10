@@ -37,6 +37,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Komodor Klaudia AI](https://komodor.com/) - AI assistant embedded in Komodor for Kubernetes troubleshooting.
 - [Metoro](https://www.metoro.io/) - Agent that monitors microservices and surfaces performance regressions.
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI layer within Middleware for correlating metrics, logs, and traces.
+- [Nexus Shell Agent Bridge](https://nexusshell.app/agent-bridge) - Local macOS MCP bridge that lets approved AI agents operate visible SSH terminals, transfer files, manage SSH keys, and read server and network monitoring data without receiving stored credentials.
 - [NudgeBee](https://github.com/nudgebee/nudgebee) - Self-hosted agent that root-causes incidents across AWS, Azure, GCP, and Kubernetes, surfaces cost and rightsizing waste, and executes approval-gated remediation runbooks.
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source) - Open source agent for automating SRE workflows on cloud infrastructure.
 - [Parity](https://www.tryparity.com/) - Agent that detects and explains production regressions after deploys.
