@@ -31,6 +31,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Aient AI](https://aient.ai) - OpenTelemetry-native agent that groups logs, metrics, and traces into problems, investigates root cause, and opens a GitHub pull request with a fix.
 - [Anyshift](https://anyshift.io/) - Agent that traces incidents to their root cause across a versioned resource graph of your infrastructure.
 - [Cleric](https://cleric.io/) - Agent that monitors infrastructure and answers questions about system state.
+- [Corelayer](https://www.corelayer.com/)) - Agent that root-causes production incidents in complex, regulated environments.
 - [Holmes GPT](https://github.com/HolmesGPT/holmesgpt) - Agent that diagnoses Kubernetes and cloud alerts using root-cause analysis.
 - [k8s-GPT](https://github.com/k8sGpt-ai/k8sgpt) (Open Source) - CLI tool that scans Kubernetes clusters and explains issues in plain language.
 - [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - Agent for automating operational runbooks and approval workflows.
