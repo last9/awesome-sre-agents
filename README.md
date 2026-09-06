@@ -24,6 +24,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 - [Obot](https://github.com/obot-platform/obot) (Open Source) - Platform for building and running AI agents with tool integrations.
 - [RunWhen](https://www.runwhen.com/) - Platform for running and managing SRE automation tasks and agents.
+- [YYLO](https://github.com/yylo-dev/yylo) (Open Source) - Command-line orchestrator that runs coding agents on typed tasks in dedicated worktrees and gates their changes with validation, risk-based review, and release-readiness boundaries.
 
 ## SRE Agents
 
