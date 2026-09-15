@@ -6,6 +6,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 - [Agent Benchmarks](#agent-benchmarks)
 - [Incident Response Agents](#incident-response-agents)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Platforms of Agents](#platforms-of-agents)
 - [SRE Agents](#sre-agents)
 
