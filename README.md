@@ -18,6 +18,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Beeps](https://www.beeps.co/) - On-call alert management agent that routes and triages incidents.
 - [incident.io](https://incident.io/ai) - AI features within the incident.io platform for response automation.
 - [Kura](https://www.usekura.com/) - Agent that investigates and summarizes incidents from runbooks.
+- [Rootly AI SRE](https://rootly.com/ai-sre) - Agent that investigates alerts and incidents by correlating telemetry, code changes, and past incidents to identify the likely root cause with supporting evidence.
 - [Wild Moose](https://www.wildmoose.ai/) - Automated root-cause analysis agent for production incidents.
 
 ## Platforms of Agents
