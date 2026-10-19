@@ -41,6 +41,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI layer within Middleware for correlating metrics, logs, and traces.
 - [NudgeBee](https://github.com/nudgebee/nudgebee) - Self-hosted agent that root-causes incidents across AWS, Azure, GCP, and Kubernetes, surfaces cost and rightsizing waste, and executes approval-gated remediation runbooks.
 - [Open SRE Agent](https://github.com/Tracer-Cloud/open-sre-agent) (Open Source) - Open source agent for automating SRE workflows on cloud infrastructure.
+- [OpenSRE.in](https://opensre.in) (Open Source) - Self-hosted agent that investigates production incidents from a web console, Slack, or Microsoft Teams and recalls similar past investigations from memory stored in Neo4j.
 - [Parity](https://www.tryparity.com/) - Agent that detects and explains production regressions after deploys.
 - [Resolve AI](https://resolve.ai) - Agent that investigates alerts and generates incident summaries automatically.
 - [RunLore](https://github.com/Smana/runlore) (Open Source) - Agent that investigates Kubernetes incidents using GitOps-exact change diffs and records what it learns as PR-reviewed markdown in a Git knowledge base you own.
