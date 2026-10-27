@@ -31,6 +31,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 - [Agent SRE](https://agentsre.ai/) - Agent trained to perform SRE tasks such as deployments and runbook execution.
 - [Aient AI](https://aient.ai) - OpenTelemetry-native agent that groups logs, metrics, and traces into problems, investigates root cause, and opens a GitHub pull request with a fix.
 - [Anyshift](https://anyshift.io/) - Agent that traces incidents to their root cause across a versioned resource graph of your infrastructure.
+- [Aurora](https://github.com/Arvo-AI/aurora) (Open Source) - Self-hosted agent that investigates production incidents across AWS, Azure, GCP, and Kubernetes and returns a structured root-cause analysis.
 - [Cleric](https://cleric.io/) - Agent that monitors infrastructure and answers questions about system state.
 - [heliograph](https://github.com/dbhq-uk/heliograph) (Open Source) - CLI and agent skill for debugging hosts you have no access to, sending diagnostic steps and receiving timestamped logs over a git transport repo, run by an on-site operator or an unattended runner.
 - [Holmes GPT](https://github.com/HolmesGPT/holmesgpt) - Agent that diagnoses Kubernetes and cloud alerts using root-cause analysis.
