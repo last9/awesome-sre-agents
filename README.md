@@ -16,6 +16,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 ## Incident Response Agents
 
 - [Beeps](https://www.beeps.co/) - On-call alert management agent that routes and triages incidents.
+- [/call-me](https://callmemcp.com) - Phone app and remote MCP server that lets an on-call or incident agent ring the human, read a question aloud and take a spoken go/no-go answer back as text.
 - [incident.io](https://incident.io/ai) - AI features within the incident.io platform for response automation.
 - [Kura](https://www.usekura.com/) - Agent that investigates and summarizes incidents from runbooks.
 - [Wild Moose](https://www.wildmoose.ai/) - Automated root-cause analysis agent for production incidents.
