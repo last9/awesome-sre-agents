@@ -30,7 +30,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 - [Agent SRE](https://agentsre.ai/) - Agent trained to perform SRE tasks such as deployments and runbook execution.
 - [Aient AI](https://aient.ai) - OpenTelemetry-native agent that groups logs, metrics, and traces into problems, investigates root cause, and opens a GitHub pull request with a fix.
-- [Akmatori](https://github.com/akmatori/akmatori) (Open Source) - Self-hosted agent that investigates alerts from Alertmanager, PagerDuty, Grafana, Datadog, and Zabbix through tools such as SSH and Kubernetes, and runs remediation only after human approval.
+- [Akmatori](https://github.com/akmatori/akmatori) (Open Source) - Self-hosted agent that investigates alerts from Alertmanager, PagerDuty, Grafana, Datadog, and Zabbix through tools such as SSH and Kubernetes, and puts risky remediation actions behind human approval.
 - [Anyshift](https://anyshift.io/) - Agent that traces incidents to their root cause across a versioned resource graph of your infrastructure.
 - [Cleric](https://cleric.io/) - Agent that monitors infrastructure and answers questions about system state.
 - [heliograph](https://github.com/dbhq-uk/heliograph) (Open Source) - CLI and agent skill for debugging hosts you have no access to, sending diagnostic steps and receiving timestamped logs over a git transport repo, run by an on-site operator or an unattended runner.
