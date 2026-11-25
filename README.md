@@ -15,6 +15,7 @@ AI agents that automate site reliability engineering and DevOps operations.
 
 ## Incident Response Agents
 
+- [Beamfar](https://beamfar.com/mcp-server) - External website monitoring and incident triage platform with Ask Beam explanations and a hosted 16-tool read-only MCP server for Claude, Cursor, Codex, and Gemini CLI.
 - [Beeps](https://www.beeps.co/) - On-call alert management agent that routes and triages incidents.
 - [incident.io](https://incident.io/ai) - AI features within the incident.io platform for response automation.
 - [Kura](https://www.usekura.com/) - Agent that investigates and summarizes incidents from runbooks.
